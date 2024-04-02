@@ -75,9 +75,12 @@ text-third{
     border: none;
     margin-top: 20px;
     font-size: 1.4rem;
+display: flex;
 
 }
-
+.restart-btn img{
+    padding-right: 5px;
+}
 /* Result Section */
 .hori-line{
     height: 2px;
